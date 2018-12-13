@@ -31,24 +31,23 @@
 
 <dependencies>
 
-
-	<dependency>
+<dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.12</version>
       <scope>test</scope>
-    </dependency>
+</dependency>
     
-   </dependencies> 
+</dependencies> 
 <disributionManagement>
 	<repository>
 		<id>nexus</id>
-		<name>release<name>
+		<name>release</name>
 		<url>http://18.224.2.52:8081/repository/maven-releases/</url>
 	</repository>
 	<snapshotRepository>
 		<id>nexus</id>
-		<name>release<name>
+		<name>release</name>
 		<url>http://18.224.2.52:8081/repository/maven-snapshots/</url>
 	</snapshotRepository>
 </disributionManagement>
