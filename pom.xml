@@ -39,7 +39,7 @@
 </dependency>
     
 </dependencies> 
-<disributionManagement>
+<distributionManagement>
 	<repository>
 		<id>nexus</id>
 		<name>release</name>
@@ -50,7 +50,7 @@
 		<name>release</name>
 		<url>http://18.224.2.52:8081/repository/maven-snapshots/</url>
 	</snapshotRepository>
-</disributionManagement>
+</distributionManagement>
   <profiles>
     <profile>
       <id>sonar-coverage</id>
