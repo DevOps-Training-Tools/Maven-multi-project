@@ -20,7 +20,7 @@
         <git.commit.id.plugin.version>2.2.1</git.commit.id.plugin.version>
         <maven.release.plugin.version>2.5.1</maven.release.plugin.version>
         <maven.release.plugin-maven.invoker.version>2.2</maven.release.plugin-maven.invoker.version>
-        <sonar.host.url>http://localhost:9001/</sonar.host.url>
+        <sonar.host.url>http://18.224.2.52:9000/</sonar.host.url>
         <sonar.profile>Sonar way</sonar.profile>
         <spring-cloud.version>Dalston.SR4</spring-cloud.version>
 	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
