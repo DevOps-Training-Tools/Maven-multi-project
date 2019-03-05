@@ -43,12 +43,12 @@
 	<repository>
 		<id>nexus</id>
 		<name>release</name>
-		<url>http://3.88.135.254:8081//repository/maven-releases/</url>
+		<url>http://54.227.171.196:8081/repository/Asss-hole/</url>
 	</repository>
 	<snapshotRepository>
 		<id>nexus</id>
 		<name>release</name>
-		<url>http://3.88.135.254:8081//repository/maven-snapshots/</url>
+		<url>http://54.227.171.196:8081/repository/Assssss-hole-Snapshot/</url>
 	</snapshotRepository>
 </distributionManagement>
   <profiles>
